@@ -5,14 +5,17 @@ User can store and reterive all the sales data using CLI
 
 ## Project Structure
 ```bash
-├── db
-│   ├── dao
-├── exception
-├── model
-├── service
-├── ui
-├── utils
-├── value
+src
+├── com
+│   ├── sourabh
+│   │   ├── db
+│   │   │   ├── dao
+│   │   ├── exception
+│   │   ├── model
+│   │   ├── service
+│   │   ├── ui
+│   │   ├── utils
+│   │   ├── value
 ```
 ### Db layer
 Contains all code related to Database operations
