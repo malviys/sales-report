@@ -1,0 +1,1 @@
+1,Item1,CMR Shopping Mall,56,56000,1000,01-Jun-2021
