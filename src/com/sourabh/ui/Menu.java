@@ -8,6 +8,17 @@ import com.sourabh.value.DateValue;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
+/**
+* CLI menu
+*
+* =======================Menu=========================
+*
+* 1. Upload Report
+*
+* 2. Display Summary
+*
+* 3. Exit
+*/
 public class Menu {
     private final SalesService salesService = new SalesService(new DataSource("reports", "root", "root"));
     private final Scanner consoleInput = new Scanner(System.in);
