@@ -4,6 +4,7 @@ A simple case study using Java, MySql
 User can store and reterive all the sales data using CLI
 
 ## Project Structure
+```bash
 ├── db
 │   ├── dao
 ├── exception
@@ -12,7 +13,7 @@ User can store and reterive all the sales data using CLI
 ├── ui
 ├── utils
 ├── value
-
+```
 ## Db layer
 Contains all code related to Database operations
 
