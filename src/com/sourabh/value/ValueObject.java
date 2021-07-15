@@ -1,5 +1,8 @@
 package com.sourabh.value;
 
+/**
+* Represents the value. A value can either return value or throw an exception.
+*/
 public abstract class ValueObject<T, E extends Exception> {
     protected T value;
     protected E exception;
