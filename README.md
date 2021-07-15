@@ -4,14 +4,15 @@ A simple case study using Java, MySql
 User can store and reterive all the sales data using CLI
 
 ## Project Structure
-|- db
-|  |- dao 
-|- exception
-|- model
-|- service
-|- ui
-|- utils
-|- value
+.
++-- _db
+|   +-- _dao 
++-- _exception
++-- _model
++-- _service
++-- _ui
++-- _utils
++-- _value
 
 ## Db layer
 Contains all code related to Database operations
